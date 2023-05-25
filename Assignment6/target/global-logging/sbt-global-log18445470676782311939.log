@@ -1,0 +1,9 @@
+[debug] > Exec(RUN, None, None)
+[error] Not a valid command: RUN
+[error] Not a valid project ID: RUN
+[error] Expected ':'
+[error] Expected '/'
+[error] Not a valid key: RUN (similar: run, bgRun, fgRun)
+[error] RUN
+[error]    ^
+[debug] > Exec(idea-shell, None, None)

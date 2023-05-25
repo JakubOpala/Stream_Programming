@@ -1,0 +1,11 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	Misra.class
+[debug] 	Misra$.class
+[debug] We backup class files:
+[debug] 	Misra.class
+[debug] 	Misra$.class
+[debug] Registering generated classes:
+[debug] 	Misra.class
+[debug] 	Misra$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes.bak

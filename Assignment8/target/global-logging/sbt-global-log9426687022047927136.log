@@ -1,0 +1,20 @@
+[debug] > Exec(run 20 1, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\opala\IdeaProjects\Assignment8\target\scala-2.13\classes ...
+[error] C:\Users\opala\IdeaProjects\Assignment8\src\main\scala\Element.scala:37:23: value num is not a member of Element.Fraction
+[error]       val num1 = that.num * this.div + this.num * that.div
+[error]                       ^
+[error] C:\Users\opala\IdeaProjects\Assignment8\src\main\scala\Element.scala:37:56: value div is not a member of Element.Fraction
+[error]       val num1 = that.num * this.div + this.num * that.div
+[error]                                                        ^
+[error] C:\Users\opala\IdeaProjects\Assignment8\src\main\scala\Element.scala:38:23: value div is not a member of Element.Fraction
+[error]       val div1 = that.div * this.div
+[error]                       ^
+[error] C:\Users\opala\IdeaProjects\Assignment8\src\main\scala\Element.scala:39:15: not found: value gcd
+[error]       val g = gcd(num1, div1)
+[error]               ^
+[error] four errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 4 s, completed 20 kwi 2023, 00:03:36
+[debug] > Exec(idea-shell, None, None)

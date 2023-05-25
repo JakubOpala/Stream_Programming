@@ -1,0 +1,11 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\opala\IdeaProjects\List4\target\scala-2.13\classes ...
+[error] C:\Users\opala\IdeaProjects\List4\src\main\scala\Main.scala:8:63: forward reference to value list1 defined on line 8 extends over definition of value list1
+[error]     val list1: LazyList[BigInt] = BigInt(0) #:: BigInt(1) #:: list1.zip(list1.tail).map{tab => tab._1 + tab._2}
+[error]                                                               ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 0 s, completed 19 mar 2023, 21:55:01
+[debug] > Exec(idea-shell, None, None)

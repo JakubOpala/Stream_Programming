@@ -1,0 +1,27 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\opala\IdeaProjects\Assignment6\target\scala-2.13\classes ...
+[error] C:\Users\opala\IdeaProjects\Assignment6\src\main\scala\Complex.scala:45:54: not enough arguments for method abs: (that: Complex): Double.
+[error] Unspecified value parameter that.
+[error]     new Complex((that.conj() * this).real / (this.abs()*this.abs()), (that.conj() * this).imaginary / (this.abs()*this.abs()))
+[error]                                                      ^
+[error] C:\Users\opala\IdeaProjects\Assignment6\src\main\scala\Complex.scala:45:65: not enough arguments for method abs: (that: Complex): Double.
+[error] Unspecified value parameter that.
+[error]     new Complex((that.conj() * this).real / (this.abs()*this.abs()), (that.conj() * this).imaginary / (this.abs()*this.abs()))
+[error]                                                                 ^
+[error] C:\Users\opala\IdeaProjects\Assignment6\src\main\scala\Complex.scala:45:112: not enough arguments for method abs: (that: Complex): Double.
+[error] Unspecified value parameter that.
+[error]     new Complex((that.conj() * this).real / (this.abs()*this.abs()), (that.conj() * this).imaginary / (this.abs()*this.abs()))
+[error]                                                                                                                ^
+[error] C:\Users\opala\IdeaProjects\Assignment6\src\main\scala\Complex.scala:45:123: not enough arguments for method abs: (that: Complex): Double.
+[error] Unspecified value parameter that.
+[error]     new Complex((that.conj() * this).real / (this.abs()*this.abs()), (that.conj() * this).imaginary / (this.abs()*this.abs()))
+[error]                                                                                                                           ^
+[error] C:\Users\opala\IdeaProjects\Assignment6\src\main\scala\DemoComplex.scala:10:21: not found: value abs
+[error]     val multiplus = abs(2 * x + y * z)
+[error]                     ^
+[error] 5 errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 11 kwi 2023, 19:48:26
+[debug] > Exec(idea-shell, None, None)

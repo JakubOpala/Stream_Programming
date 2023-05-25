@@ -1,0 +1,10 @@
+[debug] > Exec(run C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\alice29.txt C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\asyoulik.txt, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\opala\IdeaProjects\List4\target\scala-2.13\classes ...
+[info] done compiling
+[success] Total time: 8 s, completed 17 mar 2023, 19:20:26
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
+[info] shutting down sbt server

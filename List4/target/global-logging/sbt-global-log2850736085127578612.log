@@ -1,0 +1,9 @@
+[debug] > Exec(run C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\alice29.txt 10, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Canceling execution...
+[debug] Forcing garbage collection...
+[error] Cancelled: run C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\alice29.txt 10
+[error] Cancelled: run C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\alice29.txt 10
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)

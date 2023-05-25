@@ -1,0 +1,12 @@
+[debug] > Exec(run C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\alice29.txt C:\Users\opala\IdeaProjects\List4\canterbury-corpus\canterbury\asyoulik.txt, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\opala\IdeaProjects\List4\target\scala-2.13\classes ...
+[error] C:\Users\opala\IdeaProjects\List4\src\main\scala\DiffWords.scala:17:7: not found: value fileSource
+[error]       fileSource.close
+[error]       ^
+[error] one error found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 17 mar 2023, 19:20:03
+[debug] > Exec(idea-shell, None, None)

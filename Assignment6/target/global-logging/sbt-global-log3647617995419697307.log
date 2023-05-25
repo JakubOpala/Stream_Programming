@@ -1,0 +1,10 @@
+[debug] > Exec(run C:\Users\opala\IdeaProjects\Assignment6\canterbury-corpus\canterbury\alice29.txt, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\Users\opala\IdeaProjects\Assignment6\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 6 s, completed 4 kwi 2023, 23:01:46
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

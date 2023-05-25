@@ -1,0 +1,16 @@
+[debug] > Exec(run 2 5, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\opala\IdeaProjects\Assignment8\target\scala-2.13\classes ...
+[error] C:\Users\opala\IdeaProjects\Assignment8\src\main\scala\Element.scala:42:15: not found: value gcd
+[error]       val g = gcd(num1, div1)
+[error]               ^
+[error] C:\Users\opala\IdeaProjects\Assignment8\src\main\scala\Rational.scala:11:47: type mismatch;
+[error]  found   : Element
+[error]  required: String
+[error]       val sum: Element = elem(num, div) + elem(2, 5)
+[error]                                               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 20 kwi 2023, 10:20:12
+[debug] > Exec(idea-shell, None, None)

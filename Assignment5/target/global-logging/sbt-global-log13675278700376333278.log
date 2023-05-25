@@ -1,0 +1,41 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\opala\IdeaProjects\Assignment5\target\scala-2.13\classes ...
+[info] done compiling
+[error] java.lang.StringIndexOutOfBoundsException: Index 121 out of bounds for length 62
+[error] 	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+[error] 	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+[error] 	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+[error] 	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+[error] 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+[error] 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[error] 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[error] 	at java.base/java.lang.String.checkIndex(String.java:4570)
+[error] 	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+[error] 	at java.base/java.lang.String.charAt(String.java:1527)
+[error] 	at Rainbow$.add_lett$1(Rainbow.scala:22)
+[error] 	at Rainbow$.reduction(Rainbow.scala:28)
+[error] 	at Rainbow$.rainbowset(Rainbow.scala:36)
+[error] 	at Rainbow$.main(Rainbow.scala:46)
+[error] 	at Rainbow.main(Rainbow.scala)
+[error] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[error] 	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+[error] 	at sbt.Run.invokeMain(Run.scala:143)
+[error] 	at sbt.Run.execute$1(Run.scala:93)
+[error] 	at sbt.Run.$anonfun$runWithLoader$5(Run.scala:120)
+[error] 	at sbt.Run$.executeSuccess(Run.scala:186)
+[error] 	at sbt.Run.runWithLoader(Run.scala:120)
+[error] 	at sbt.Defaults$.$anonfun$bgRunTask$6(Defaults.scala:1980)
+[error] 	at sbt.Defaults$.$anonfun$termWrapper$2(Defaults.scala:1919)
+[error] 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+[error] 	at scala.util.Try$.apply(Try.scala:213)
+[error] 	at sbt.internal.BackgroundThreadPool$BackgroundRunnable.run(DefaultBackgroundJobService.scala:366)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[error] 	at java.base/java.lang.Thread.run(Thread.java:1589)
+[error] (Compile / run) java.lang.StringIndexOutOfBoundsException: Index 121 out of bounds for length 62
+[error] Total time: 16 s, completed 28 mar 2023, 13:26:52
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

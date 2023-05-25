@@ -1,0 +1,27 @@
+[debug] Packaging C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\assignment10_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	AMS$.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\AMS$.class
+[debug] 	AMS.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\AMS.class
+[debug] 	CountMin$.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\CountMin$.class
+[debug] 	CountMin.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\CountMin.class
+[debug] 	Majority$.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Majority$.class
+[debug] 	Majority$delayedInit$body.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Majority$delayedInit$body.class
+[debug] 	Majority.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Majority.class
+[debug] 	Misra$.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Misra$.class
+[debug] 	Misra.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Misra.class
+[debug] 	Randoms$.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Randoms$.class
+[debug] 	Randoms$delayedInit$body.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Randoms$delayedInit$body.class
+[debug] 	Randoms.class
+[debug] 	  C:\Users\opala\IdeaProjects\Assignment10\target\scala-2.13\classes\Randoms.class
+[debug] Done packaging.

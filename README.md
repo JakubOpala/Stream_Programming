@@ -1,5 +1,5 @@
 # Stream_Programming
-Scala
+All the programms were written in Scala programming language
 
 Texts analized in each assignment were imported from
 https://github.com/pfalcon/canterbury-corpus.git
